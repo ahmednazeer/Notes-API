@@ -1,0 +1,16 @@
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\NotesAPI.deps.json
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\NotesAPI.runtimeconfig.json
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\NotesAPI.runtimeconfig.dev.json
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\NotesAPI.dll
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.RazorAssemblyInfo.cache
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.RazorAssemblyInfo.cs
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\bin\Debug\netcoreapp2.2\NotesAPI.pdb
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.dll
+C:\Users\ahmed\source\repos\Task-Solution\NotesAPI\obj\Debug\netcoreapp2.2\NotesAPI.pdb
